@@ -1,2 +1,1 @@
-# rsschool-cv
-Resume project for EPAM
+https://github.com/kakaba/rsschool-cv 
