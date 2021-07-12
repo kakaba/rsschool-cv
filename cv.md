@@ -29,4 +29,4 @@ The main reason for this is that I have a passion for building things.
     * ttm.lv
 * Smart Bycicle
     * smartbicycle.ge
-* Lookup
+* Lookup.ge
