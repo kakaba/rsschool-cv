@@ -1,1 +1,1 @@
-[Link to my cv.md file](https://github.com/kakaba/rsschool-cv)
+[Link to my rsschool project](https://github.com/kakaba/rsschool-cv)
